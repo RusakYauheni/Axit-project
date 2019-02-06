@@ -1335,7 +1335,7 @@ textarea {
   -ms-flex-align: center;
       align-items: center;
   padding: 7.5% 10.7% 6%;
-  background-image: url(../img/style-design.png);
+  background-image: url(assets/img/style-design.png);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -1388,6 +1388,7 @@ textarea {
     color: #fff;
     width: 150px;
     height: 45px;
+    pointer: cursor;
     margin: 0 auto;
     margin-top: 45px;
     border-radius: 4px;
