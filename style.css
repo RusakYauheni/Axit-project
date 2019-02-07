@@ -814,7 +814,9 @@ textarea {
       width: 60%; } }
   @media (min-width: 900px) {
     .tabs__info-container {
-      width: 43%; } }
+      width: 43%;
+      max-height: 333px;
+    } }
   .tabs__info-container h3 {
     margin-top: 10px;
     margin-bottom: 40px;
