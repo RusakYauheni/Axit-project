@@ -1508,37 +1508,37 @@ textarea {
 
 @font-face {
   font-family: 'Open Sans Bold';
-  src: url("../../../app/assets/components/fonts/Open Sans Bold.ttf") format("truetype");
+  src: url(assets/components/fonts/Open Sans Bold.ttf) format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'Open Sans Semibold';
-  src: url("../../../app/assets/components/fonts/Open Sans Semibold.ttf") format("truetype");
+  src: url(app/assets/components/fonts/Open Sans Semibold.ttf) format("truetype");
   font-weight: 400;
   font-style: normal; }
 
 @font-face {
   font-family: 'Open Sans';
-  src: url("../../../app/assets/components/fonts/Open Sans.ttf") format("truetype");
+  src: url(assets/components/fonts/Open Sans.ttf) format("truetype");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'Raleway Bold';
-  src: url("../../../app/assets/components/fonts/Raleway-Bold.ttf") format("truetype");
+  src: url(assets/components/fonts/Raleway-Bold.ttf) format("truetype");
   font-weight: bold;
   font-style: normal; }
 
 @font-face {
   font-family: 'Raleway Light';
-  src: url("../../../app/assets/components/fonts/Raleway-Light.ttf") format("truetype");
+  src: url(assets/components/fonts/Raleway-Light.ttf) format("truetype");
   font-weight: lighter;
   font-style: normal; }
 
 @font-face {
   font-family: 'Raleway Regular';
-  src: url("../../../app/assets/components/fonts/Raleway-Regular.ttf") format("truetype");
+  src: url(assets/components/fonts/Raleway-Regular.ttf) format("truetype");
   font-weight: normal;
   font-style: normal; }
 
